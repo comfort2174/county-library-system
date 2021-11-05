@@ -1,7 +1,7 @@
 /*-----------------------------
 * Version: C99                *
 * Project: Library management *
-* Author:  Titus Njiru        *
+* Author:  comfort micheni       *
 * Date:    June,2021          *
 * License: MIT                *
 ******************************/
